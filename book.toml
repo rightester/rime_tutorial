@@ -1,0 +1,6 @@
+[book]
+authors = ["rightester"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rime入门教程"
