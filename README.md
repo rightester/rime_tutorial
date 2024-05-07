@@ -7,16 +7,16 @@
 目前还在写，努力写完它
 
 
-本地部署方法：
+## 本地部署方法：
 
 1. 首先安装mdbook，一个简单的方法是去[releases页面](https://github.com/rust-lang/mdBook/releases)下载编译好的版本。
 
-2. clone本项目，或者下载zip包。进入项目目录
+2. clone本项目，或者下载zip包。进入项目目录，在命令行/shell里执行下面的代码
 ```shell
 cd rust_tutorial
 mdbook serve
 ```
 
-3. 打开浏览器，访问`127.0.0.1:3000`
+3. 打开浏览器，访问[127.0.0.1:3000](127.0.0.1:3000)
 
 此时应该就能够看到文档了。
