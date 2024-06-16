@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "797a954a5aa71b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ea0372849e4e03a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dce3e4dedfa64942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/01-01_初识Rime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea4338bf35506e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/01-02_安装与使用Rime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "651bae8f6ef9fd47",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "94c582d3f56a3dd2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cc079ddf579c891f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#TODO",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3ced8af55ca6cd0e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7af66dd035c694f0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "1bc4ffb53a5a1c36",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "92e4f67930fe4431",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "src/01-01_初识Rime.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "64f7a8b7e6ccc5cd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "src/01-01_初识Rime.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dbc551167ef4bfe1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "src/01-01_初识Rime.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "dce3e4dedfa64942",
+  "lastOpenFiles": [
+    "src/00_说明.md",
+    "src/01-01_初识Rime.md",
+    "README.md",
+    "src/01-02_安装与使用Rime.md"
+  ]
+}

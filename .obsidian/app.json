@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "./attachments",
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "foldHeading": true,
+  "showLineNumber": true,
+  "showInlineTitle": false
+}
