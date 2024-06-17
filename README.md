@@ -7,16 +7,21 @@
 目前还在写，努力写完它
 
 
-## 本地部署方法：
+## 使用和阅读方法：
 
-1. 首先安装mdbook，一个简单的方法是去[releases页面](https://github.com/rust-lang/mdBook/releases)下载编译好的版本。
+#### 使用所见即所得的Markdown笔记软件阅读
+- 可使用Obsidian直接打开本项目文件夹
+- 可使用Typora打开src文件夹
 
-2. clone本项目，或者下载zip包。进入项目目录，在命令行/shell里执行下面的代码
-```shell
-cd rust_tutorial
-mdbook serve
-```
+#### 本地部署在浏览器中访问
+1. 需要安装mdbook，可至[release页面](https://github.com/rust-lang/mdBook/releases)下载安装版。
+2. clone本项目，或者下载zip包。执行项目目录下的shell脚本，或手动进入项目目录执行 `mdbook serve`
+3. 应该会自动打开浏览器，若无请手动访问 [127.0.0.1:3000](http://127.0.0.1:3000)
+  此时应该就能够看到文档了。
 
-3. 打开浏览器，访问[127.0.0.1:3000](127.0.0.1:3000)
 
-此时应该就能够看到文档了。
+## 关于贡献
+
+我个人的水平终归是有限的，欢迎支持本Rime教程的写作，欢迎提出意见指点不足，欢迎提Issue和Pull Request。
+
+（等写完了也欢迎打赏奶茶和泡面（

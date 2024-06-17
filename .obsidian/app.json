@@ -5,5 +5,13 @@
   "newLinkFormat": "relative",
   "foldHeading": true,
   "showLineNumber": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "*.toml",
+    "book/*",
+    "LICENSE",
+    "*.bat"
+  ],
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }

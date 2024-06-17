@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "3251f99ca5df6e8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aa7c2e96599f885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1ef05f2413fe4d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/00_说明.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6a804ed09f9e73d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c7c58e3c1de942e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a14ae20dc0c7621",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b6266ba5c50e842",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d842ec4b35a6a6e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a952301b2ee86c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "864f34738bf026c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "226ab151f6c7dcae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/00_说明.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d1ef05f2413fe4d8",
+  "lastOpenFiles": [
+    "src/01-02_安装与使用Rime.md",
+    "README.md",
+    "book_serve.sh",
+    "book_serve.bat",
+    "book_build.sh",
+    "book_build.bat",
+    "serve_book.sh",
+    "build_book - 副本.sh",
+    "build_book.sh",
+    "serve_book.ps1",
+    "serve_book - 副本.bat",
+    "serve_book.bat",
+    "src/00_说明.md",
+    "src/01-01_初识Rime.md",
+    "src/attachments/01-01_初识Rime_rime_homepage_header_screenshot.png",
+    "src/attachments/Pasted image 20240618012005.png",
+    "src/attachments/_01-02_安装与使用Rime_.png",
+    "src/SUMMARY.md"
+  ]
+}

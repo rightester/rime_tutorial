@@ -1,0 +1,14 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "src/attachments",
+    "在此处打开终端.bat",
+    "book.toml",
+    "LICENSE",
+    "book",
+    "book_build.bat",
+    "book_build.sh",
+    "book_serve.bat",
+    "book_serve.sh"
+  ]
+}
