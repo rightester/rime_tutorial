@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/00_说明.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/00_说明.md"
+                "file": "README.md"
               }
             }
           }
@@ -108,6 +108,7 @@
   },
   "active": "d1ef05f2413fe4d8",
   "lastOpenFiles": [
+    "src/00_说明.md",
     "src/01-02_安装与使用Rime.md",
     "README.md",
     "book_serve.sh",
@@ -120,7 +121,6 @@
     "serve_book.ps1",
     "serve_book - 副本.bat",
     "serve_book.bat",
-    "src/00_说明.md",
     "src/01-01_初识Rime.md",
     "src/attachments/01-01_初识Rime_rime_homepage_header_screenshot.png",
     "src/attachments/Pasted image 20240618012005.png",
