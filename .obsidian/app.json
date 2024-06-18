@@ -7,10 +7,10 @@
   "showLineNumber": true,
   "showInlineTitle": false,
   "userIgnoreFilters": [
-    "*.toml",
-    "book/*",
     "LICENSE",
-    "*.bat"
+    "book/",
+    "/.*\\.(bat)|(sh)/",
+    "/.*\\.toml/"
   ],
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true

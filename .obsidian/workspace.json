@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/00_说明.md",
+                "file": "src/01-01_初识Rime.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/00_说明.md"
+                "file": "src/01-01_初识Rime.md"
               }
             }
           }
@@ -109,22 +110,26 @@
   "active": "22c97577cd9a1bdc",
   "lastOpenFiles": [
     "src/00_说明.md",
-    "README.md",
+    "src/SUMMARY.md",
     "src/01-02_安装与使用Rime.md",
-    "book_serve.sh",
-    "book_serve.bat",
-    "book_build.sh",
-    "book_build.bat",
-    "serve_book.sh",
-    "build_book - 副本.sh",
-    "build_book.sh",
-    "serve_book.ps1",
-    "serve_book - 副本.bat",
-    "serve_book.bat",
+    "book/01-02_安装与使用Rime.html",
+    "book/clipboard.min.js",
+    "book/ayu-highlight.css",
+    "book/favicon.svg",
+    "book/favicon.png",
+    "book/book.js",
+    "book/404.html",
+    "book/tomorrow-night.css",
+    "book/print.html",
+    "book/highlight.js",
+    "book/highlight.css",
+    "README.md",
+    "book/fonts/source-code-pro-v11-all-charsets-500.woff2",
+    "book/FontAwesome/fonts/fontawesome-webfont.svg",
+    "book/attachments/01-01_初识Rime_rime_homepage_header_screenshot.png",
     "src/01-01_初识Rime.md",
     "src/attachments/01-01_初识Rime_rime_homepage_header_screenshot.png",
     "src/attachments/Pasted image 20240618012005.png",
-    "src/attachments/_01-02_安装与使用Rime_.png",
-    "src/SUMMARY.md"
+    "src/attachments/_01-02_安装与使用Rime_.png"
   ]
 }
