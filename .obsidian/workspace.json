@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/01-02_安装与使用Rime.md",
+                "file": "src/SUMMARY.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/01-02_安装与使用Rime.md"
+                "file": "src/SUMMARY.md"
               }
             }
           },
@@ -109,10 +109,11 @@
   },
   "active": "22c97577cd9a1bdc",
   "lastOpenFiles": [
-    "src/01-01_初识Rime.md",
     "src/01-02_安装与使用Rime.md",
-    "README.md",
+    "src/01-01_初识Rime.md",
     "src/00_说明.md",
+    "src/SUMMARY.md",
+    "README.md",
     "book/tomorrow-night.css",
     "book/searchindex.json",
     "book/searchindex.js",
@@ -125,7 +126,6 @@
     "book/favicon.svg",
     "book/favicon.png",
     "book/elasticlunr.min.js",
-    "src/SUMMARY.md",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/attachments/01-01_初识Rime_rime_homepage_header_screenshot.png",
     "src/attachments/01-01_初识Rime_rime_homepage_header_screenshot.png",

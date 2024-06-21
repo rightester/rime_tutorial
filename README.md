@@ -14,19 +14,20 @@
 
 ## 使用和阅读方法：
 
-#### 使用所见即所得的Markdown笔记软件阅读
-- 可使用Obsidian直接打开本项目文件夹
+#### 使用Markdown编辑器软件来阅读
+- 可使用Obsidian直接打开本项目文件夹，对打开的文件切换至阅读模式
 - 可使用其他支持预览Markdown的软件打开src文件夹
 
 #### 使用mdbook本地部署在浏览器中访问
-1. 首先安装mdbook，可至[release页面](https://github.com/rust-lang/mdBook/releases)下载安装版。
-2. clone本项目，或下载zip包。执行项目目录下的shell脚本，或手动进入项目目录执行 `mdbook serve`
+1. 首先安装mdbook，可至[Releases页面](https://github.com/rust-lang/mdBook/releases)下载安装版，或直接使用cargo安装。
+2. clone本项目，或下载zip包。执行项目目录下的shell脚本，或手动在本项目目录执行 `mdbook serve`
 3. 应该会自动打开浏览器，若无请手动访问 [localhost:3000](http://localhost:3000)
   此时应该就能够看到文档了。
   
 #### 其他使用方法
 - 直接在GitHub仓库中阅览，内容在[src目录](https://github.com/rightester/rime_tutorial/tree/master/src)下
-- 使用纯文本编辑器阅读
+- 使用mdbook将本项目打包成pdf或epub格式的电子书
+- 使用纯文本编辑器直接阅读（不推荐）
 
 
 ## 关于贡献

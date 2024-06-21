@@ -1,4 +1,8 @@
 {
   "accentColor": "#a34161",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "mermaid_graph_scroll_bar",
+    "better_svg_show"
+  ]
 }
