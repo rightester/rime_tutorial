@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/01-01_初识Rime.md",
+                "file": "src/01-02_安装与使用Rime.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,6 +73,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "226ab151f6c7dcae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/01-02_安装与使用Rime.md"
+              }
+            }
+          },
+          {
             "id": "864f34738bf026c0",
             "type": "leaf",
             "state": {
@@ -80,16 +90,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "226ab151f6c7dcae",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "src/01-01_初识Rime.md"
               }
             }
           }
@@ -109,25 +109,25 @@
   },
   "active": "22c97577cd9a1bdc",
   "lastOpenFiles": [
-    "src/00_说明.md",
-    "src/SUMMARY.md",
+    "src/01-01_初识Rime.md",
     "src/01-02_安装与使用Rime.md",
-    "book/01-02_安装与使用Rime.html",
-    "book/clipboard.min.js",
-    "book/ayu-highlight.css",
-    "book/favicon.svg",
-    "book/favicon.png",
-    "book/book.js",
-    "book/404.html",
+    "README.md",
+    "src/00_说明.md",
     "book/tomorrow-night.css",
+    "book/searchindex.json",
+    "book/searchindex.js",
+    "book/searcher.js",
     "book/print.html",
+    "book/mark.min.js",
+    "book/index.html",
     "book/highlight.js",
     "book/highlight.css",
-    "README.md",
-    "book/fonts/source-code-pro-v11-all-charsets-500.woff2",
+    "book/favicon.svg",
+    "book/favicon.png",
+    "book/elasticlunr.min.js",
+    "src/SUMMARY.md",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/attachments/01-01_初识Rime_rime_homepage_header_screenshot.png",
-    "src/01-01_初识Rime.md",
     "src/attachments/01-01_初识Rime_rime_homepage_header_screenshot.png",
     "src/attachments/Pasted image 20240618012005.png",
     "src/attachments/_01-02_安装与使用Rime_.png"
