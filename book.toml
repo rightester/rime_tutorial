@@ -1,6 +1,22 @@
 [book]
 authors = ["rightester"]
-language = "en"
+language = "zh"
 multilingual = false
 src = "src"
 title = "Rime入门教程"
+
+#[output.html]
+#print.enabled = true
+
+#[output.epub]
+#additional-css = ["./book/css/general.css"]
+#use-default-css = false
+#cover-image = "ebook-cover.png"
+#additional-resources = ["./assets/Open-Sans-Regular.ttf"]
+#no-section-label = true
+#curly-quotes = true
+
+#[output.pdf]
+#browser-binary-path = ''
+
+[preprocessor.image-viewer]
