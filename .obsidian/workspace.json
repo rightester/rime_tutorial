@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/01-02_安装与使用Rime.md",
+                "file": "src/SUMMARY.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-02_安装与使用Rime"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -84,10 +84,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/01-02_安装与使用Rime.md"
+                "file": "src/SUMMARY.md"
               },
               "icon": "lucide-list",
-              "title": "01-02_安装与使用Rime 的大纲"
+              "title": "SUMMARY 的大纲"
             }
           },
           {
@@ -118,8 +118,10 @@
   },
   "active": "22c97577cd9a1bdc",
   "lastOpenFiles": [
-    "src/01-03_Rime配置文件简介.md",
+    "src/02-01_ Rime组件的接口与执行流程.md",
+    "src/SUMMARY.md",
     "src/01-02_安装与使用Rime.md",
+    "src/01-03_Rime配置文件简介.md",
     "src/attachments/01-02_安装与使用Rime_解压并置入雾淞拼音的整套配置.png",
     "src/attachments/01-02_安装与使用Rime_解压释放雾淞拼音的这套配置.png",
     "src/attachments/01-03_Rime配置文件简介_构成图.md",
@@ -136,7 +138,6 @@
     "src/attachments/01-03_构成图.mermaid",
     "src/01-01_初识Rime.md",
     "src/00-01_下载列表.md",
-    "src/SUMMARY.md",
     "src/00_说明.md",
     "README.md",
     "book/tomorrow-night.css",
