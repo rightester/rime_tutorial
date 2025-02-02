@@ -1,3 +1,4 @@
 book/**
 在此处打开*
-.obsidian/workspace.json
+.obsidian/*
+!.obsidian/plugins
